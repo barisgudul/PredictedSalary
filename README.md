@@ -8,15 +8,9 @@ This project implements a Simple Linear Regression model using Python to predict
 2. [Dataset](#dataset)
    - [Sample Data](#sample-data)
 3. [Project Steps](#project-steps)
-   - [1. Import Libraries](#1-import-libraries)
-   - [2. Load Dataset](#2-load-dataset)
-   - [3. Split Data](#3-split-data)
-   - [4. Train the Model](#4-train-the-model)
-   - [5. Make Predictions](#5-make-predictions)
-   - [6. Visualize Results](#6-visualize-results)
-   - [7. Single Prediction](#7-single-prediction)
-   - [8. Regression Equation](#8-regression-equation)
-   - [9. Visualizations](#9-visualizations)
+4. [Visualizations](#visualizations)
+
+
 ---
 ## Dataset
 
@@ -56,9 +50,10 @@ The dataset (`Salary_Data.csv`) includes two columns:
 8. **Regression Equation**:
    The equation of the regression line is printed as \( y = b_0 + b_1 \times x \), where \( b_0 \) is the intercept and \( b_1 \) is the coefficient (slope).
 
-9. **Visualizations**:
+## Visualizations
+<br>
     -### Salary vs Experience (Test)
      ![Salary vs Experience (Train)](Salary_vs_Experience(train).png)
-   ---
+<br>
     -### Salary vs Experience (Train)
      ![Salary vs Experience (Test)](Salary_vs_Experience(test).png)
