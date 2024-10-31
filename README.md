@@ -52,8 +52,8 @@ The dataset (`Salary_Data.csv`) includes two columns:
 
 ## Visualizations
 
-    -### Salary vs Experience (Test)
-     ![Salary vs Experience (Train)](Salary_vs_Experience(train).png)
+### Salary vs Experience (Train)
+![Salary vs Experience (Train)](Salary_vs_Experience(train).png)
 
-    -### Salary vs Experience (Train)
-     ![Salary vs Experience (Test)](Salary_vs_Experience(test).png)
+### Salary vs Experience (Test)
+![Salary vs Experience (Test)](Salary_vs_Experience(test).png)
