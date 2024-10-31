@@ -51,9 +51,9 @@ The dataset (`Salary_Data.csv`) includes two columns:
    The equation of the regression line is printed as \( y = b_0 + b_1 \times x \), where \( b_0 \) is the intercept and \( b_1 \) is the coefficient (slope).
 
 ## Visualizations
-<br>
+
     -### Salary vs Experience (Test)
      ![Salary vs Experience (Train)](Salary_vs_Experience(train).png)
-<br>
+
     -### Salary vs Experience (Train)
      ![Salary vs Experience (Test)](Salary_vs_Experience(test).png)
